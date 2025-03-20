@@ -3,7 +3,7 @@ Creating this repo with an intent to make Kubernetes easy for begineers. This is
 
 ## Kubernetes Installation Using KOPS on EC2
 
-### Create an EC2 instance or use your personal laptop.
+######Create an EC2 instance or use your personal laptop.
 
 Dependencies required 
 
