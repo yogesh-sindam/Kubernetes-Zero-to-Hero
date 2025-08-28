@@ -98,5 +98,6 @@ some important links for Kops
 https://kops.sigs.k8s.io/
 #####################
 https://youtu.be/ySHF-TQxKsw?si=QvjuPQwq4rA-uYjr 
-#######################
+#########################
+###
 
